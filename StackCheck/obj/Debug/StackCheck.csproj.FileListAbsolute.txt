@@ -1,0 +1,7 @@
+D:\C#\StackCheck\bin\Debug\StackCheck.exe.config
+D:\C#\StackCheck\bin\Debug\StackCheck.exe
+D:\C#\StackCheck\bin\Debug\StackCheck.pdb
+D:\C#\StackCheck\obj\Debug\StackCheck.csproj.AssemblyReference.cache
+D:\C#\StackCheck\obj\Debug\StackCheck.csproj.CoreCompileInputs.cache
+D:\C#\StackCheck\obj\Debug\StackCheck.exe
+D:\C#\StackCheck\obj\Debug\StackCheck.pdb

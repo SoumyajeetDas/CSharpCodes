@@ -1,0 +1,7 @@
+D:\C#\Seriesofnumbers\bin\Debug\Seriesofnumbers.exe.config
+D:\C#\Seriesofnumbers\bin\Debug\Seriesofnumbers.exe
+D:\C#\Seriesofnumbers\bin\Debug\Seriesofnumbers.pdb
+D:\C#\Seriesofnumbers\obj\Debug\Seriesofnumbers.csproj.AssemblyReference.cache
+D:\C#\Seriesofnumbers\obj\Debug\Seriesofnumbers.csproj.CoreCompileInputs.cache
+D:\C#\Seriesofnumbers\obj\Debug\Seriesofnumbers.exe
+D:\C#\Seriesofnumbers\obj\Debug\Seriesofnumbers.pdb

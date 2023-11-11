@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\AddNewMemeber\bin\Debug\AddNewMemeber.exe.config
+D:\C#\Cognizant C#\AddNewMemeber\bin\Debug\AddNewMemeber.exe
+D:\C#\Cognizant C#\AddNewMemeber\bin\Debug\AddNewMemeber.pdb
+D:\C#\Cognizant C#\AddNewMemeber\obj\Debug\AddNewMemeber.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\AddNewMemeber\obj\Debug\AddNewMemeber.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\AddNewMemeber\obj\Debug\AddNewMemeber.exe
+D:\C#\Cognizant C#\AddNewMemeber\obj\Debug\AddNewMemeber.pdb

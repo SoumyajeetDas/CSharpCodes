@@ -1,0 +1,7 @@
+D:\C#\List With Getter and Setter\bin\Debug\List With Getter and Setter.exe.config
+D:\C#\List With Getter and Setter\bin\Debug\List With Getter and Setter.exe
+D:\C#\List With Getter and Setter\bin\Debug\List With Getter and Setter.pdb
+D:\C#\List With Getter and Setter\obj\Debug\List With Getter and Setter.csproj.AssemblyReference.cache
+D:\C#\List With Getter and Setter\obj\Debug\List With Getter and Setter.csproj.CoreCompileInputs.cache
+D:\C#\List With Getter and Setter\obj\Debug\List With Getter and Setter.exe
+D:\C#\List With Getter and Setter\obj\Debug\List With Getter and Setter.pdb

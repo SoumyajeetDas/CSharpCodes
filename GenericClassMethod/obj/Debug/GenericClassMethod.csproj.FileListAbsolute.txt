@@ -1,0 +1,7 @@
+D:\C#\GenericClassMethod\bin\Debug\GenericClassMethod.exe.config
+D:\C#\GenericClassMethod\bin\Debug\GenericClassMethod.exe
+D:\C#\GenericClassMethod\bin\Debug\GenericClassMethod.pdb
+D:\C#\GenericClassMethod\obj\Debug\GenericClassMethod.csproj.AssemblyReference.cache
+D:\C#\GenericClassMethod\obj\Debug\GenericClassMethod.csproj.CoreCompileInputs.cache
+D:\C#\GenericClassMethod\obj\Debug\GenericClassMethod.exe
+D:\C#\GenericClassMethod\obj\Debug\GenericClassMethod.pdb

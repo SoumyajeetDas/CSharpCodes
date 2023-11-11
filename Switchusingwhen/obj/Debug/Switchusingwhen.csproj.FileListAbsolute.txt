@@ -1,0 +1,7 @@
+D:\C#\Switchusingwhen\bin\Debug\Switchusingwhen.exe.config
+D:\C#\Switchusingwhen\bin\Debug\Switchusingwhen.exe
+D:\C#\Switchusingwhen\bin\Debug\Switchusingwhen.pdb
+D:\C#\Switchusingwhen\obj\Debug\Switchusingwhen.csproj.AssemblyReference.cache
+D:\C#\Switchusingwhen\obj\Debug\Switchusingwhen.csproj.CoreCompileInputs.cache
+D:\C#\Switchusingwhen\obj\Debug\Switchusingwhen.exe
+D:\C#\Switchusingwhen\obj\Debug\Switchusingwhen.pdb

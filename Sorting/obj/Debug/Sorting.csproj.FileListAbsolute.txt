@@ -1,0 +1,7 @@
+D:\C#\Sorting\bin\Debug\Sorting.exe.config
+D:\C#\Sorting\bin\Debug\Sorting.exe
+D:\C#\Sorting\bin\Debug\Sorting.pdb
+D:\C#\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+D:\C#\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+D:\C#\Sorting\obj\Debug\Sorting.exe
+D:\C#\Sorting\obj\Debug\Sorting.pdb

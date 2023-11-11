@@ -1,0 +1,7 @@
+D:\C#\SealedPractise\bin\Debug\SealedPractise.exe.config
+D:\C#\SealedPractise\bin\Debug\SealedPractise.exe
+D:\C#\SealedPractise\bin\Debug\SealedPractise.pdb
+D:\C#\SealedPractise\obj\Debug\SealedPractise.csproj.AssemblyReference.cache
+D:\C#\SealedPractise\obj\Debug\SealedPractise.csproj.CoreCompileInputs.cache
+D:\C#\SealedPractise\obj\Debug\SealedPractise.exe
+D:\C#\SealedPractise\obj\Debug\SealedPractise.pdb

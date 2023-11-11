@@ -1,0 +1,7 @@
+D:\C#\ReadOnlyPractise\bin\Debug\ReadOnlyPractise.exe.config
+D:\C#\ReadOnlyPractise\bin\Debug\ReadOnlyPractise.exe
+D:\C#\ReadOnlyPractise\bin\Debug\ReadOnlyPractise.pdb
+D:\C#\ReadOnlyPractise\obj\Debug\ReadOnlyPractise.csproj.AssemblyReference.cache
+D:\C#\ReadOnlyPractise\obj\Debug\ReadOnlyPractise.csproj.CoreCompileInputs.cache
+D:\C#\ReadOnlyPractise\obj\Debug\ReadOnlyPractise.exe
+D:\C#\ReadOnlyPractise\obj\Debug\ReadOnlyPractise.pdb

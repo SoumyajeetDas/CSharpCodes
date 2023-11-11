@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Generate Bills\bin\Debug\Generate Bills.exe.config
+D:\C#\Cognizant C#\Generate Bills\bin\Debug\Generate Bills.exe
+D:\C#\Cognizant C#\Generate Bills\bin\Debug\Generate Bills.pdb
+D:\C#\Cognizant C#\Generate Bills\obj\Debug\Generate Bills.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Generate Bills\obj\Debug\Generate Bills.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Generate Bills\obj\Debug\Generate Bills.exe
+D:\C#\Cognizant C#\Generate Bills\obj\Debug\Generate Bills.pdb

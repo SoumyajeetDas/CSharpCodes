@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Flight Status\bin\Debug\Flight Status.exe.config
+D:\C#\Cognizant C#\Flight Status\bin\Debug\Flight Status.exe
+D:\C#\Cognizant C#\Flight Status\bin\Debug\Flight Status.pdb
+D:\C#\Cognizant C#\Flight Status\obj\Debug\Flight Status.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Flight Status\obj\Debug\Flight Status.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Flight Status\obj\Debug\Flight Status.exe
+D:\C#\Cognizant C#\Flight Status\obj\Debug\Flight Status.pdb

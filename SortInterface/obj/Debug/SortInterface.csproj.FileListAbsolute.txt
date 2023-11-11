@@ -1,0 +1,7 @@
+D:\C#\SortInterface\bin\Debug\SortInterface.exe.config
+D:\C#\SortInterface\bin\Debug\SortInterface.exe
+D:\C#\SortInterface\bin\Debug\SortInterface.pdb
+D:\C#\SortInterface\obj\Debug\SortInterface.csprojAssemblyReference.cache
+D:\C#\SortInterface\obj\Debug\SortInterface.csproj.CoreCompileInputs.cache
+D:\C#\SortInterface\obj\Debug\SortInterface.exe
+D:\C#\SortInterface\obj\Debug\SortInterface.pdb

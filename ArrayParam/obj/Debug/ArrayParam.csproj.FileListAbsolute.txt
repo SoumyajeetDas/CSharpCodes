@@ -1,0 +1,7 @@
+D:\C#\ArrayParam\bin\Debug\ArrayParam.exe.config
+D:\C#\ArrayParam\bin\Debug\ArrayParam.exe
+D:\C#\ArrayParam\bin\Debug\ArrayParam.pdb
+D:\C#\ArrayParam\obj\Debug\ArrayParam.csprojAssemblyReference.cache
+D:\C#\ArrayParam\obj\Debug\ArrayParam.csproj.CoreCompileInputs.cache
+D:\C#\ArrayParam\obj\Debug\ArrayParam.exe
+D:\C#\ArrayParam\obj\Debug\ArrayParam.pdb

@@ -1,0 +1,7 @@
+D:\C#\Destructor\bin\Debug\Destructor.exe.config
+D:\C#\Destructor\bin\Debug\Destructor.exe
+D:\C#\Destructor\bin\Debug\Destructor.pdb
+D:\C#\Destructor\obj\Debug\Destructor.csprojAssemblyReference.cache
+D:\C#\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+D:\C#\Destructor\obj\Debug\Destructor.exe
+D:\C#\Destructor\obj\Debug\Destructor.pdb

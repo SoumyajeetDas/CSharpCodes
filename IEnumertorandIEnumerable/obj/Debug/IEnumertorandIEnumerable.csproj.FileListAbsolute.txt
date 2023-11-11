@@ -1,0 +1,7 @@
+D:\C#\IEnumertorandIEnumerable\bin\Debug\IEnumertorandIEnumerable.exe.config
+D:\C#\IEnumertorandIEnumerable\bin\Debug\IEnumertorandIEnumerable.exe
+D:\C#\IEnumertorandIEnumerable\bin\Debug\IEnumertorandIEnumerable.pdb
+D:\C#\IEnumertorandIEnumerable\obj\Debug\IEnumertorandIEnumerable.csproj.AssemblyReference.cache
+D:\C#\IEnumertorandIEnumerable\obj\Debug\IEnumertorandIEnumerable.csproj.CoreCompileInputs.cache
+D:\C#\IEnumertorandIEnumerable\obj\Debug\IEnumertorandIEnumerable.exe
+D:\C#\IEnumertorandIEnumerable\obj\Debug\IEnumertorandIEnumerable.pdb

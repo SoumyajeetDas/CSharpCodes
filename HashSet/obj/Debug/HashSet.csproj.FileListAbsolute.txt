@@ -1,0 +1,6 @@
+D:\C#\HashSet\bin\Debug\HashSet.exe.config
+D:\C#\HashSet\bin\Debug\HashSet.exe
+D:\C#\HashSet\bin\Debug\HashSet.pdb
+D:\C#\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+D:\C#\HashSet\obj\Debug\HashSet.exe
+D:\C#\HashSet\obj\Debug\HashSet.pdb

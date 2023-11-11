@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Product Details\bin\Debug\Product Details.exe.config
+D:\C#\Cognizant C#\Product Details\bin\Debug\Product Details.exe
+D:\C#\Cognizant C#\Product Details\bin\Debug\Product Details.pdb
+D:\C#\Cognizant C#\Product Details\obj\Debug\Product Details.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Product Details\obj\Debug\Product Details.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Product Details\obj\Debug\Product Details.exe
+D:\C#\Cognizant C#\Product Details\obj\Debug\Product Details.pdb

@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\MovieScreening\bin\Debug\MovieScreening.exe.config
+D:\C#\Cognizant C#\MovieScreening\bin\Debug\MovieScreening.exe
+D:\C#\Cognizant C#\MovieScreening\bin\Debug\MovieScreening.pdb
+D:\C#\Cognizant C#\MovieScreening\obj\Debug\MovieScreening.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\MovieScreening\obj\Debug\MovieScreening.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\MovieScreening\obj\Debug\MovieScreening.exe
+D:\C#\Cognizant C#\MovieScreening\obj\Debug\MovieScreening.pdb

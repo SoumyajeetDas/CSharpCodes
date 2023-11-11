@@ -1,0 +1,7 @@
+D:\C#\StringtoDateTime\bin\Debug\StringtoDateTime.exe.config
+D:\C#\StringtoDateTime\bin\Debug\StringtoDateTime.exe
+D:\C#\StringtoDateTime\bin\Debug\StringtoDateTime.pdb
+D:\C#\StringtoDateTime\obj\Debug\StringtoDateTime.csproj.AssemblyReference.cache
+D:\C#\StringtoDateTime\obj\Debug\StringtoDateTime.csproj.CoreCompileInputs.cache
+D:\C#\StringtoDateTime\obj\Debug\StringtoDateTime.exe
+D:\C#\StringtoDateTime\obj\Debug\StringtoDateTime.pdb

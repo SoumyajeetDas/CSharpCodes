@@ -1,0 +1,7 @@
+D:\C#\FormatString\bin\Debug\FormatString.exe.config
+D:\C#\FormatString\bin\Debug\FormatString.exe
+D:\C#\FormatString\bin\Debug\FormatString.pdb
+D:\C#\FormatString\obj\Debug\FormatString.csproj.AssemblyReference.cache
+D:\C#\FormatString\obj\Debug\FormatString.csproj.CoreCompileInputs.cache
+D:\C#\FormatString\obj\Debug\FormatString.exe
+D:\C#\FormatString\obj\Debug\FormatString.pdb

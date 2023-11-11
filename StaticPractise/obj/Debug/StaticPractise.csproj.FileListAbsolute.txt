@@ -1,0 +1,7 @@
+D:\C#\StaticPractise\obj\Debug\StaticPractise.csprojAssemblyReference.cache
+D:\C#\StaticPractise\obj\Debug\StaticPractise.csproj.CoreCompileInputs.cache
+D:\C#\StaticPractise\bin\Debug\StaticPractise.exe.config
+D:\C#\StaticPractise\bin\Debug\StaticPractise.exe
+D:\C#\StaticPractise\bin\Debug\StaticPractise.pdb
+D:\C#\StaticPractise\obj\Debug\StaticPractise.exe
+D:\C#\StaticPractise\obj\Debug\StaticPractise.pdb

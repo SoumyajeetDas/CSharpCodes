@@ -1,0 +1,7 @@
+D:\C#\OutCheck\obj\Debug\OutCheck.csprojAssemblyReference.cache
+D:\C#\OutCheck\obj\Debug\OutCheck.csproj.CoreCompileInputs.cache
+D:\C#\OutCheck\bin\Debug\OutCheck.exe.config
+D:\C#\OutCheck\bin\Debug\OutCheck.exe
+D:\C#\OutCheck\bin\Debug\OutCheck.pdb
+D:\C#\OutCheck\obj\Debug\OutCheck.exe
+D:\C#\OutCheck\obj\Debug\OutCheck.pdb

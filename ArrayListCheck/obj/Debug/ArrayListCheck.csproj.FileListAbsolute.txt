@@ -1,0 +1,7 @@
+D:\C#\ArrayListCheck\bin\Debug\ArrayListCheck.exe.config
+D:\C#\ArrayListCheck\bin\Debug\ArrayListCheck.exe
+D:\C#\ArrayListCheck\bin\Debug\ArrayListCheck.pdb
+D:\C#\ArrayListCheck\obj\Debug\ArrayListCheck.csproj.CoreCompileInputs.cache
+D:\C#\ArrayListCheck\obj\Debug\ArrayListCheck.exe
+D:\C#\ArrayListCheck\obj\Debug\ArrayListCheck.pdb
+D:\C#\ArrayListCheck\obj\Debug\ArrayListCheck.csproj.AssemblyReference.cache

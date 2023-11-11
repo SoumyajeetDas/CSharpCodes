@@ -1,0 +1,7 @@
+D:\C#\ClassandInterface\bin\Debug\ClassandInterface.exe.config
+D:\C#\ClassandInterface\bin\Debug\ClassandInterface.exe
+D:\C#\ClassandInterface\bin\Debug\ClassandInterface.pdb
+D:\C#\ClassandInterface\obj\Debug\ClassandInterface.csprojAssemblyReference.cache
+D:\C#\ClassandInterface\obj\Debug\ClassandInterface.csproj.CoreCompileInputs.cache
+D:\C#\ClassandInterface\obj\Debug\ClassandInterface.exe
+D:\C#\ClassandInterface\obj\Debug\ClassandInterface.pdb

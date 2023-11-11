@@ -1,0 +1,7 @@
+D:\C#\TypeofvsGetType\bin\Debug\TypeofvsGetType.exe.config
+D:\C#\TypeofvsGetType\bin\Debug\TypeofvsGetType.exe
+D:\C#\TypeofvsGetType\bin\Debug\TypeofvsGetType.pdb
+D:\C#\TypeofvsGetType\obj\Debug\TypeofvsGetType.csproj.AssemblyReference.cache
+D:\C#\TypeofvsGetType\obj\Debug\TypeofvsGetType.csproj.CoreCompileInputs.cache
+D:\C#\TypeofvsGetType\obj\Debug\TypeofvsGetType.exe
+D:\C#\TypeofvsGetType\obj\Debug\TypeofvsGetType.pdb

@@ -1,0 +1,7 @@
+D:\C#\Count Duplicate\bin\Debug\Count Duplicate.exe.config
+D:\C#\Count Duplicate\bin\Debug\Count Duplicate.exe
+D:\C#\Count Duplicate\bin\Debug\Count Duplicate.pdb
+D:\C#\Count Duplicate\obj\Debug\Count Duplicate.csproj.AssemblyReference.cache
+D:\C#\Count Duplicate\obj\Debug\Count Duplicate.csproj.CoreCompileInputs.cache
+D:\C#\Count Duplicate\obj\Debug\Count Duplicate.exe
+D:\C#\Count Duplicate\obj\Debug\Count Duplicate.pdb

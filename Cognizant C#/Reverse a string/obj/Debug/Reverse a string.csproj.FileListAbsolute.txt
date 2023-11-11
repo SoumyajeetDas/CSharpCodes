@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Reverse a string\obj\Debug\Reverse a string.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Reverse a string\obj\Debug\Reverse a string.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Reverse a string\bin\Debug\Reverse a string.exe.config
+D:\C#\Cognizant C#\Reverse a string\bin\Debug\Reverse a string.exe
+D:\C#\Cognizant C#\Reverse a string\bin\Debug\Reverse a string.pdb
+D:\C#\Cognizant C#\Reverse a string\obj\Debug\Reverse a string.exe
+D:\C#\Cognizant C#\Reverse a string\obj\Debug\Reverse a string.pdb

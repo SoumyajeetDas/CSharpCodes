@@ -1,0 +1,7 @@
+D:\C#\ThreadCheck\bin\Debug\ThreadCheck.exe.config
+D:\C#\ThreadCheck\bin\Debug\ThreadCheck.exe
+D:\C#\ThreadCheck\bin\Debug\ThreadCheck.pdb
+D:\C#\ThreadCheck\obj\Debug\ThreadCheck.csproj.AssemblyReference.cache
+D:\C#\ThreadCheck\obj\Debug\ThreadCheck.csproj.CoreCompileInputs.cache
+D:\C#\ThreadCheck\obj\Debug\ThreadCheck.exe
+D:\C#\ThreadCheck\obj\Debug\ThreadCheck.pdb

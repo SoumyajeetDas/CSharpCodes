@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Extract Book Code\bin\Debug\Extract Book Code.exe.config
+D:\C#\Cognizant C#\Extract Book Code\bin\Debug\Extract Book Code.exe
+D:\C#\Cognizant C#\Extract Book Code\bin\Debug\Extract Book Code.pdb
+D:\C#\Cognizant C#\Extract Book Code\obj\Debug\Extract Book Code.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Extract Book Code\obj\Debug\Extract Book Code.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Extract Book Code\obj\Debug\Extract Book Code.exe
+D:\C#\Cognizant C#\Extract Book Code\obj\Debug\Extract Book Code.pdb

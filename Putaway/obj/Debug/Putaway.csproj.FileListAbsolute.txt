@@ -1,0 +1,7 @@
+D:\C#\Putaway\bin\Debug\Putaway.exe.config
+D:\C#\Putaway\bin\Debug\Putaway.exe
+D:\C#\Putaway\bin\Debug\Putaway.pdb
+D:\C#\Putaway\obj\Debug\Putaway.csprojAssemblyReference.cache
+D:\C#\Putaway\obj\Debug\Putaway.csproj.CoreCompileInputs.cache
+D:\C#\Putaway\obj\Debug\Putaway.exe
+D:\C#\Putaway\obj\Debug\Putaway.pdb

@@ -1,0 +1,7 @@
+D:\C#\ArrayCloning\bin\Debug\ArrayCloning.exe.config
+D:\C#\ArrayCloning\bin\Debug\ArrayCloning.exe
+D:\C#\ArrayCloning\bin\Debug\ArrayCloning.pdb
+D:\C#\ArrayCloning\obj\Debug\ArrayCloning.csprojAssemblyReference.cache
+D:\C#\ArrayCloning\obj\Debug\ArrayCloning.csproj.CoreCompileInputs.cache
+D:\C#\ArrayCloning\obj\Debug\ArrayCloning.exe
+D:\C#\ArrayCloning\obj\Debug\ArrayCloning.pdb

@@ -1,0 +1,7 @@
+D:\C#\DictionaryPractise\bin\Debug\DictionaryPractise.exe.config
+D:\C#\DictionaryPractise\bin\Debug\DictionaryPractise.exe
+D:\C#\DictionaryPractise\bin\Debug\DictionaryPractise.pdb
+D:\C#\DictionaryPractise\obj\Debug\DictionaryPractise.csproj.CoreCompileInputs.cache
+D:\C#\DictionaryPractise\obj\Debug\DictionaryPractise.exe
+D:\C#\DictionaryPractise\obj\Debug\DictionaryPractise.pdb
+D:\C#\DictionaryPractise\obj\Debug\DictionaryPractise.csproj.AssemblyReference.cache

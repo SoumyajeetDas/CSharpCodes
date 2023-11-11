@@ -1,0 +1,7 @@
+D:\C#\PartialClassCheck\bin\Debug\PartialClassCheck.exe.config
+D:\C#\PartialClassCheck\bin\Debug\PartialClassCheck.exe
+D:\C#\PartialClassCheck\bin\Debug\PartialClassCheck.pdb
+D:\C#\PartialClassCheck\obj\Debug\PartialClassCheck.csproj.AssemblyReference.cache
+D:\C#\PartialClassCheck\obj\Debug\PartialClassCheck.csproj.CoreCompileInputs.cache
+D:\C#\PartialClassCheck\obj\Debug\PartialClassCheck.exe
+D:\C#\PartialClassCheck\obj\Debug\PartialClassCheck.pdb

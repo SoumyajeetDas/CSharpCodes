@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\Find the Age of Person\bin\Debug\Find the Age of Person.exe.config
+D:\C#\Cognizant C#\Find the Age of Person\bin\Debug\Find the Age of Person.exe
+D:\C#\Cognizant C#\Find the Age of Person\bin\Debug\Find the Age of Person.pdb
+D:\C#\Cognizant C#\Find the Age of Person\obj\Debug\Find the Age of Person.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\Find the Age of Person\obj\Debug\Find the Age of Person.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\Find the Age of Person\obj\Debug\Find the Age of Person.exe
+D:\C#\Cognizant C#\Find the Age of Person\obj\Debug\Find the Age of Person.pdb

@@ -1,0 +1,7 @@
+D:\C#\Linq Joins\bin\Debug\Linq Joins.exe.config
+D:\C#\Linq Joins\bin\Debug\Linq Joins.exe
+D:\C#\Linq Joins\bin\Debug\Linq Joins.pdb
+D:\C#\Linq Joins\obj\Debug\Linq Joins.csproj.AssemblyReference.cache
+D:\C#\Linq Joins\obj\Debug\Linq Joins.csproj.CoreCompileInputs.cache
+D:\C#\Linq Joins\obj\Debug\Linq Joins.exe
+D:\C#\Linq Joins\obj\Debug\Linq Joins.pdb

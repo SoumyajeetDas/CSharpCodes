@@ -1,0 +1,7 @@
+D:\C#\ParseCheck\bin\Debug\ParseCheck.exe.config
+D:\C#\ParseCheck\bin\Debug\ParseCheck.exe
+D:\C#\ParseCheck\bin\Debug\ParseCheck.pdb
+D:\C#\ParseCheck\obj\Debug\ParseCheck.csproj.AssemblyReference.cache
+D:\C#\ParseCheck\obj\Debug\ParseCheck.csproj.CoreCompileInputs.cache
+D:\C#\ParseCheck\obj\Debug\ParseCheck.exe
+D:\C#\ParseCheck\obj\Debug\ParseCheck.pdb

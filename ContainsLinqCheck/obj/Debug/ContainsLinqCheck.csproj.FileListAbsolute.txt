@@ -1,0 +1,7 @@
+D:\C#\ContainsLinqCheck\bin\Debug\ContainsLinqCheck.exe.config
+D:\C#\ContainsLinqCheck\bin\Debug\ContainsLinqCheck.exe
+D:\C#\ContainsLinqCheck\bin\Debug\ContainsLinqCheck.pdb
+D:\C#\ContainsLinqCheck\obj\Debug\ContainsLinqCheck.csproj.AssemblyReference.cache
+D:\C#\ContainsLinqCheck\obj\Debug\ContainsLinqCheck.csproj.CoreCompileInputs.cache
+D:\C#\ContainsLinqCheck\obj\Debug\ContainsLinqCheck.exe
+D:\C#\ContainsLinqCheck\obj\Debug\ContainsLinqCheck.pdb

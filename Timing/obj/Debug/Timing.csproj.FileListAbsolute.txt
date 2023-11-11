@@ -1,0 +1,7 @@
+D:\C#\Timing\bin\Debug\Timing.exe.config
+D:\C#\Timing\bin\Debug\Timing.exe
+D:\C#\Timing\bin\Debug\Timing.pdb
+D:\C#\Timing\obj\Debug\Timing.csproj.AssemblyReference.cache
+D:\C#\Timing\obj\Debug\Timing.csproj.CoreCompileInputs.cache
+D:\C#\Timing\obj\Debug\Timing.exe
+D:\C#\Timing\obj\Debug\Timing.pdb

@@ -1,0 +1,7 @@
+D:\C#\TupleCheck\bin\Debug\TupleCheck.exe.config
+D:\C#\TupleCheck\bin\Debug\TupleCheck.exe
+D:\C#\TupleCheck\bin\Debug\TupleCheck.pdb
+D:\C#\TupleCheck\obj\Debug\TupleCheck.csproj.AssemblyReference.cache
+D:\C#\TupleCheck\obj\Debug\TupleCheck.csproj.CoreCompileInputs.cache
+D:\C#\TupleCheck\obj\Debug\TupleCheck.exe
+D:\C#\TupleCheck\obj\Debug\TupleCheck.pdb

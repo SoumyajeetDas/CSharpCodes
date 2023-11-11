@@ -1,0 +1,7 @@
+D:\C#\Advanced Delegate\bin\Debug\Advanced Delegate.exe.config
+D:\C#\Advanced Delegate\bin\Debug\Advanced Delegate.exe
+D:\C#\Advanced Delegate\bin\Debug\Advanced Delegate.pdb
+D:\C#\Advanced Delegate\obj\Debug\Advanced Delegate.csproj.AssemblyReference.cache
+D:\C#\Advanced Delegate\obj\Debug\Advanced Delegate.csproj.CoreCompileInputs.cache
+D:\C#\Advanced Delegate\obj\Debug\Advanced Delegate.exe
+D:\C#\Advanced Delegate\obj\Debug\Advanced Delegate.pdb

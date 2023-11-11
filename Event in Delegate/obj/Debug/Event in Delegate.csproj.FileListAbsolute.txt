@@ -1,0 +1,7 @@
+D:\C#\Event in Delegate\bin\Debug\Event in Delegate.exe.config
+D:\C#\Event in Delegate\bin\Debug\Event in Delegate.exe
+D:\C#\Event in Delegate\bin\Debug\Event in Delegate.pdb
+D:\C#\Event in Delegate\obj\Debug\Event in Delegate.csproj.AssemblyReference.cache
+D:\C#\Event in Delegate\obj\Debug\Event in Delegate.csproj.CoreCompileInputs.cache
+D:\C#\Event in Delegate\obj\Debug\Event in Delegate.exe
+D:\C#\Event in Delegate\obj\Debug\Event in Delegate.pdb

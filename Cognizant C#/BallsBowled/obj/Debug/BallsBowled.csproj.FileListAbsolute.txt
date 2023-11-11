@@ -1,0 +1,7 @@
+D:\C#\Cognizant C#\BallsBowled\bin\Debug\BallsBowled.exe.config
+D:\C#\Cognizant C#\BallsBowled\bin\Debug\BallsBowled.exe
+D:\C#\Cognizant C#\BallsBowled\bin\Debug\BallsBowled.pdb
+D:\C#\Cognizant C#\BallsBowled\obj\Debug\BallsBowled.csproj.AssemblyReference.cache
+D:\C#\Cognizant C#\BallsBowled\obj\Debug\BallsBowled.csproj.CoreCompileInputs.cache
+D:\C#\Cognizant C#\BallsBowled\obj\Debug\BallsBowled.exe
+D:\C#\Cognizant C#\BallsBowled\obj\Debug\BallsBowled.pdb

@@ -1,0 +1,7 @@
+D:\C#\DelegateCheck\bin\Debug\DelegateCheck.exe.config
+D:\C#\DelegateCheck\bin\Debug\DelegateCheck.exe
+D:\C#\DelegateCheck\bin\Debug\DelegateCheck.pdb
+D:\C#\DelegateCheck\obj\Debug\DelegateCheck.csproj.AssemblyReference.cache
+D:\C#\DelegateCheck\obj\Debug\DelegateCheck.csproj.CoreCompileInputs.cache
+D:\C#\DelegateCheck\obj\Debug\DelegateCheck.exe
+D:\C#\DelegateCheck\obj\Debug\DelegateCheck.pdb

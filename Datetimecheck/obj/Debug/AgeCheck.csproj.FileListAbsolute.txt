@@ -1,0 +1,7 @@
+D:\C#\Datetimecheck\bin\Debug\Datetimecheck.exe.config
+D:\C#\Datetimecheck\bin\Debug\Datetimecheck.exe
+D:\C#\Datetimecheck\bin\Debug\Datetimecheck.pdb
+D:\C#\Datetimecheck\obj\Debug\AgeCheck.csproj.AssemblyReference.cache
+D:\C#\Datetimecheck\obj\Debug\AgeCheck.csproj.CoreCompileInputs.cache
+D:\C#\Datetimecheck\obj\Debug\Datetimecheck.exe
+D:\C#\Datetimecheck\obj\Debug\Datetimecheck.pdb

@@ -1,0 +1,7 @@
+D:\C#\TaskParallelLibraryCheck\bin\Debug\TaskParallelLibraryCheck.exe.config
+D:\C#\TaskParallelLibraryCheck\bin\Debug\TaskParallelLibraryCheck.exe
+D:\C#\TaskParallelLibraryCheck\bin\Debug\TaskParallelLibraryCheck.pdb
+D:\C#\TaskParallelLibraryCheck\obj\Debug\TaskParallelLibraryCheck.csproj.AssemblyReference.cache
+D:\C#\TaskParallelLibraryCheck\obj\Debug\TaskParallelLibraryCheck.csproj.CoreCompileInputs.cache
+D:\C#\TaskParallelLibraryCheck\obj\Debug\TaskParallelLibraryCheck.exe
+D:\C#\TaskParallelLibraryCheck\obj\Debug\TaskParallelLibraryCheck.pdb

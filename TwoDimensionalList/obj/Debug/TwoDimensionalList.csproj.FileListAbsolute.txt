@@ -1,0 +1,7 @@
+D:\C#\TwoDimensionalList\bin\Debug\TwoDimensionalList.exe.config
+D:\C#\TwoDimensionalList\bin\Debug\TwoDimensionalList.exe
+D:\C#\TwoDimensionalList\bin\Debug\TwoDimensionalList.pdb
+D:\C#\TwoDimensionalList\obj\Debug\TwoDimensionalList.csproj.AssemblyReference.cache
+D:\C#\TwoDimensionalList\obj\Debug\TwoDimensionalList.csproj.CoreCompileInputs.cache
+D:\C#\TwoDimensionalList\obj\Debug\TwoDimensionalList.exe
+D:\C#\TwoDimensionalList\obj\Debug\TwoDimensionalList.pdb

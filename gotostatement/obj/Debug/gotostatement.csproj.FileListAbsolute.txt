@@ -1,0 +1,7 @@
+D:\C#\gotostatement\bin\Debug\gotostatement.exe.config
+D:\C#\gotostatement\bin\Debug\gotostatement.exe
+D:\C#\gotostatement\bin\Debug\gotostatement.pdb
+D:\C#\gotostatement\obj\Debug\gotostatement.csprojAssemblyReference.cache
+D:\C#\gotostatement\obj\Debug\gotostatement.csproj.CoreCompileInputs.cache
+D:\C#\gotostatement\obj\Debug\gotostatement.exe
+D:\C#\gotostatement\obj\Debug\gotostatement.pdb
